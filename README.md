@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Adebayo
-- 🌱 I’m a Frontend developer
-- Skilled in HTMl, CSS, Javascript, Jquery, react
+- 🌱 I’m a Fullstack developer
+- Skilled in HTMl, CSS, Javascript, Jquery, react, MongoDB, Express, Nodejs and manymore
 - 📫 Reach me via repzysam@gmail.com
 
 <!---
